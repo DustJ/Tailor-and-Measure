@@ -1,4 +1,4 @@
-# Tailor-and-Measure
+# Tailor and Measure
 Code sample of a web app that builds a dynmic zip file on the server based on user selection.
 
 Built as an extension of an existing WordPress site and designed to fit within an exiting theme.
